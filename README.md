@@ -1,2 +1,2 @@
 # jenkins-shared-library
-dd
+ddgitgit config --system --unset credenti
