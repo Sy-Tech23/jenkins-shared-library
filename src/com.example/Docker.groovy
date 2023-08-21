@@ -1,5 +1,5 @@
 #!/user/bin/env groovy
-package saeed.h
+package com.example
 
 class Docker implements Serializable {
 
